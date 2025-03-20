@@ -79,6 +79,10 @@ Block code "fences"
 Sample text here...
 ```
 
+modifica
+
+bold
+
 Syntax highlighting
 
 ``` js
