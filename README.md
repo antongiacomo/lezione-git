@@ -79,6 +79,8 @@ Sample text here...
 
 modifica
 
+bold
+
 Syntax highlighting
 
 ``` js
