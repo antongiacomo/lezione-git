@@ -5,32 +5,15 @@
 ##### h5 Heading
 ###### h6 Heading
 
+Se inzio a modificare
 
 ## Horizontal Rules
 
 ___
 
----
-
-***
-
-
-## Typographic replacements
-
-Enable typographer option to see result.
-
-(c) (C) (r) (R) (tm) (TM) (p) (P) +-
-
-test.. test... test..... test?..... test!....
-
-!!!!!! ???? ,,  -- ---
-
-"Smartypants, double quotes" and 'single quotes'
-
-
 ## Emphasis
 
-**This is bold text**
+**This is italic text**
 
 __This is bold text__
 
@@ -95,6 +78,10 @@ Block code "fences"
 Sample text here...
 ```
 
+modifica
+
+bold
+
 Syntax highlighting
 
 ``` js
@@ -143,6 +130,5 @@ Like links, Images also have a footnote style syntax
 With a reference later in the document defining the URL location:
 
 [id]: https://octodex.github.com/images/dojocat.jpg  "The Dojocat"
-
 
 # Ciao
