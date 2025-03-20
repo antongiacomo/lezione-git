@@ -1,5 +1,4 @@
-# Prima modifica
-# h1 Heading
+# h1 Heading 8-)
 ## h2 Heading
 ### h3 Heading
 #### h4 Heading
@@ -131,5 +130,5 @@ Like links, Images also have a footnote style syntax
 With a reference later in the document defining the URL location:
 
 [id]: https://octodex.github.com/images/dojocat.jpg  "The Dojocat"
-feature
-push push push
+
+# Ciao
