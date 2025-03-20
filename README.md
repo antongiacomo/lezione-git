@@ -1,3 +1,4 @@
+# Prima modifica
 # h1 Heading
 ## h2 Heading
 ### h3 Heading
@@ -5,6 +6,7 @@
 ##### h5 Heading
 ###### h6 Heading
 
+Se inzio a modificare
 
 ## Horizontal Rules
 
@@ -12,7 +14,7 @@ ___
 
 ## Emphasis
 
-**This is bold text**
+**This is italic text**
 
 __This is bold text__
 
